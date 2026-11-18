@@ -6,7 +6,7 @@ It's made for **small businesses, startups and personal brands**, on any platfor
 
 ![The visual planner: a month calendar with colour-coded posts, your situation and the balance of posts](assets/planner-preview.png)
 
-*The visual planner it makes for you. This one is for the fictional coffee startup in [examples](examples/coffee-startup/).*
+*The visual planner it makes for you.* 👉 **Try the live planners:** [coffee startup](https://amelialy.github.io/content-calendar-skill/examples/coffee-startup/content-calendar.html) · [dental clinic](https://amelialy.github.io/content-calendar-skill/examples/dental-clinic/content-calendar.html). Click any post to see its details.
 
 ## How it works
 
