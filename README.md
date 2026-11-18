@@ -4,6 +4,10 @@ Most content calendars just give you post ideas. This Claude skill first works o
 
 It's made for **small businesses, startups and personal brands**, on any platform, with no marketing jargon.
 
+![The visual planner: a month calendar with colour-coded posts, your situation and the balance of posts](assets/planner-preview.png)
+
+*The visual planner it makes for you. This one is for the fictional coffee startup in [examples](examples/coffee-startup/).*
+
 ## How it works
 
 **1. You answer a few quick questions, mostly by clicking.**
@@ -29,6 +33,7 @@ It's made for **small businesses, startups and personal brands**, on any platfor
 **6. It plans around real dates:** paydays, 11.11 and 12.12, Chinese New Year, Ramadan and Raya, Deepavali and school holidays.
 
 **7. You get a real calendar:**
+- 🗓️ `content-calendar.html`: a visual planner you open in any browser. It has a month calendar with colour-coded posts, a list view with tick boxes, and click-to-open details for every post.
 - 📋 a dated plan in the chat
 - 📊 `content-calendar.csv` for Google Sheets, Notion or Excel
 - 📅 `content-calendar.ics`, so every post appears in Google Calendar, Outlook or Apple Calendar
@@ -72,6 +77,8 @@ skills/content-calendar/
     ├── story-formats.md      # story styles for each kind of post
     ├── platform-guide.md     # what each platform is good for, and which formats work
     └── sea-calendar.md       # Southeast Asia festive and shopping dates
+└── assets/
+    └── planner-template.html # the visual planner page, which Claude fills with your plan
 ```
 
 ## Tips
