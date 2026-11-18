@@ -39,7 +39,7 @@ This is a very different plan from the [dental clinic](../dental-clinic/) exampl
 
 ## Files
 
-- [`content-calendar.html`](content-calendar.html): the visual planner. Download it and open it in a browser.
+- [`content-calendar.html`](content-calendar.html): the visual planner. **[Open it live](https://amelialy.github.io/content-calendar-skill/examples/coffee-startup/content-calendar.html)**, or download it and open it in a browser.
 - [`content-calendar.csv`](content-calendar.csv): 18 posts
 - [`content-calendar.ics`](content-calendar.ics): 18 all-day events
 
