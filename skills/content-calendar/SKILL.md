@@ -1,13 +1,13 @@
 ---
 name: content-calendar
-description: Use when an SME, startup, or personal brand wants a multi-week content calendar, posting plan, or social media schedule as files — asks a few click-to-answer questions, works out where the business is and what's holding it back, plans posts that fix that with a story style for each, and delivers a real calendar: a dated plan, a CSV for Sheets/Notion/Excel, and an .ics file for Google Calendar, Outlook, or Apple Calendar.
+description: Use when an SME, startup, or personal brand wants a multi-week content calendar, posting plan, or social media schedule as files — asks a few click-to-answer questions, works out where the business is and what's holding it back, plans posts that fix that with a story style for each, and delivers a real calendar: a visual planner page (HTML), a CSV for Sheets/Notion/Excel, and an .ics file for Google Calendar, Outlook, or Apple Calendar.
 ---
 
 # Content Calendar
 
 Most content calendars just list post ideas. This one first works out **what the business needs from its posts right now**, then plans posts that do that job, and puts them in the user's own calendar.
 
-The flow: **Ask (with choices) → Look at their profile → Check the platforms → Work out the situation → Decide the balance → Plan each post → Deliver files → Check back in 4 weeks.**
+The flow: **Ask (with choices) → Look at their profile → Check the platforms → Work out the situation → Decide the balance → Plan each post → Deliver the planner and files → Check back in 4 weeks.**
 
 It works for any platform. It isn't tied to any one platform.
 
@@ -214,11 +214,45 @@ END:VCALENDAR
 - `<n>` is the post's number across the whole calendar.
 - `-PT6H` before an all-day event fires at 6pm the evening before. Apple Calendar and Outlook use it; Google Calendar ignores reminders in imported files.
 
-Save both files and say where they are. If you can't write files, give each one in its own code block with its filename.
+**4. `content-calendar.html`: the visual planner.** This is the page most people will actually look at: a month calendar with colour-coded posts, a list view with tick boxes, click-to-open post details, the "Where you are" summary, the balance of posts, and the notes from Step 6. It needs no internet connection and opens in any browser.
 
-## Step 6: Finish with four short parts
+To make it:
+1. Copy [assets/planner-template.html](assets/planner-template.html) to `content-calendar.html`, next to the CSV and `.ics` files.
+2. Replace **only** the contents of the `<script id="plan-data" type="application/json">` tag with the plan as JSON. Don't change anything else in the file.
+3. Write any `</` inside the JSON as `<\/`, so the page can't break.
+
+The JSON shape (all text in plain words, as the user sees it):
+
+```json
+{
+  "business": "Kopi Kawan",
+  "start": "2026-12-07",
+  "weeks": 6,
+  "platforms": ["Instagram", "TikTok"],
+  "closedDays": ["2026-12-25"],
+  "situation": { "where": "…", "holding": "…", "so": "…", "goal": "…" },
+  "posts": [
+    { "date": "2026-12-07", "platform": "Instagram + TikTok", "format": "IG: carousel · TikTok: short video",
+      "goal": "Get found", "theme": "…", "idea": "…", "style": "…", "firstLine": "…",
+      "outline": "…", "ask": "…", "workedIf": "…", "status": "To do" }
+  ],
+  "alsoWorth": ["…"],
+  "fillIn": ["10 Dec: [fill in: …]"],
+  "checkBack": { "date": "2027-01-18", "watch": ["…"] },
+  "files": { "csv": "content-calendar.csv", "ics": "content-calendar.ics" }
+}
+```
+
+- `goal` must be exactly one of: `Get found`, `Build trust`, `Get them to buy`, `Bring them back`. The colours depend on it.
+- `[fill in: …]` placeholders show up highlighted on the page, so keep them in the text.
+- If the template file isn't available, still deliver the CSV and `.ics` files and say the visual planner couldn't be made.
+
+**Save all the files in one folder and say where they are. Then open `content-calendar.html` for the user** if you can (for example by showing it in a browser or preview pane). Otherwise, tell them to double-click it. If you can't write files, give the CSV and `.ics` in code blocks with their filenames, and skip the planner page.
+
+## Step 6: Finish with these short parts
 
 - **Also worth doing (outside posts):** 1–3 simple fixes for what's holding them back, from stages-and-leaks.md. For example, a WhatsApp message to remind past customers, or a ready reply for price questions.
 - **Fill in before posting:** list every `[fill in: …]` and every "(set this up first)".
+- **See your planner:** open `content-calendar.html`. Tick posts off as you go; the ticks are saved in that browser only.
 - **Put it in your calendar:** Google Calendar → Settings → Import & export → choose the `.ics` file and import it into a new calendar called "Content". Then turn on that calendar's default notification, because Google skips reminders in imported files. For Sheets or Notion, import the CSV.
 - **Check back:** what to watch (1–2 plain numbers, e.g. "messages per week") and the date 4 weeks from the start. Invite them to come back then for next month's plan.
