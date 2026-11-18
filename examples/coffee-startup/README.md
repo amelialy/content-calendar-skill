@@ -11,23 +11,25 @@ A **pre-launch startup** that nobody outside its founders' circle knows yet.
 - **Plan:** Instagram + TikTok (cross-posted), 3 posts a week, 6 weeks from 7 Dec 2026
 - **Launch offer:** RM 69 first month for waitlist members. Orders close 15 Jan. Closed on 25 Dec and 1 Jan.
 
-## The diagnosis
+## What the skill worked out
 
-> **Diagnosis:** You're at *Pre-launch* until 11 January, then *Early traction*. Your main leak is *Not seen*: your followers are mostly friends and no strangers have enquired yet. So this period leans heavily on reach, with a short launch arc and the RM 69 waitlist offer at the end.
+> **Where you are:** not launched yet. From 11 January you will have your first customers.
+> **What's holding you back:** not many people see your posts. Your followers are mostly friends, and no strangers have asked about you yet.
+> **So this period:** most posts help new people find you, ending with a short run of launch posts and the RM 69 waitlist offer.
 > **Goal:** 50 waitlist sign-ups from people who aren't friends by 15 January. This is a starting estimate you can change.
 
-## The mix
+## The balance of posts
 
 The plan crosses the launch date, so the skill splits it in two:
 
-| Part | Mix (Awareness / Consideration / Conversion / Retention) | Posts |
+| Part | Get found / Build trust / Get them to buy / Bring them back | Posts |
 |---|---|---|
 | Before launch (15 posts) | 75 / 15 / 10 / 0 | 11 / 2 / 2 / 0 |
 | After launch (3 posts) | 60 / 15 / 20 / 5 | 2 / 0 / 1 / 0 |
 | **Total** | | **13 / 2 / 3 / 0** |
 
-**How the launch arc fits:**
-- The arc runs Tease (30 Dec) → Reveal (4 Jan) → Proof (6 Jan) → Offer (8 Jan) → Last call (13 Jan).
+**How the launch posts fit:**
+- They run Tease (30 Dec) → Reveal (4 Jan) → Proof (6 Jan) → Offer (8 Jan) → Last call (13 Jan).
 - The Offer post also answers "Can I pause?".
 - The first two customer questions share one post.
 
