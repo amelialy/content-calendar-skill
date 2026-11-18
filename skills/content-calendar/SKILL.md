@@ -7,7 +7,7 @@ description: Use when an SME, startup, or personal brand wants a multi-week cont
 
 Most content calendars just list post ideas. This one first works out **what the business needs from its posts right now**, then plans posts that do that job, and puts them in the user's own calendar.
 
-The flow: **Ask (with choices) → Check the platforms → Work out the situation → Decide the balance → Plan each post → Deliver files → Check back in 4 weeks.**
+The flow: **Ask (with choices) → Look at their profile → Check the platforms → Work out the situation → Decide the balance → Plan each post → Deliver files → Check back in 4 weeks.**
 
 It works for any platform. It isn't tied to any one platform.
 
@@ -78,14 +78,30 @@ Skip any question the user's message already answers. Ask at most **2 rounds**.
    - An offer or promotion
    - Closed or quiet days (holidays, leave, year-end)
 
-Then, in the same message, ask for two short typed answers:
+Then, in the same message, ask for three short typed answers:
 
-- **What do you sell, and who to?** (one line). Skip this if you already know.
+- **Your profile link or @handle on each platform you post on** (e.g. `instagram.com/yourbrand` or `@yourbrand on TikTok`). Say why: "so I can see what's already working for you." Offer "Not set up yet" as an answer.
+- **What do you sell, and who to?** (one line). Skip this if you already know, or if their profile makes it clear.
 - **What do customers often ask before buying?** Give up to 3 questions. Offer "Not sure, suggest some for me" as an option. If they pick it, suggest typical questions for that kind of business and mark them as suggestions.
 
 If they picked a launch or an offer, also ask for its date, price and who it's for. If they picked closed or quiet days, ask which days.
 
-## Step 1b: Check the platforms
+## Step 1b: Look at their profile
+
+Read [references/profile-check.md](references/profile-check.md), and follow it for each profile they gave.
+
+- **Look only at what's public, and read only.** If your browser or web tool can open the profile without logging in, do that. Never log in, follow, like, comment or message from any account.
+- **If you can see the bio but not the posts** (common with plain web fetches), say what you saw and ask for screenshots of the posts in the same message.
+- **If you can't see it** (no browsing tool, or the platform asks you to log in), ask for one of these instead: a screenshot of their profile and their last 9 posts, or a screenshot of their insights (reach, top posts, follower activity). If they'd rather not, carry on without it.
+- **Show what you found in up to 5 plain bullets** (fewer is fine; never pad) under "What I saw on your profile": what's working (do more), what isn't, and the quickest fix. Name real posts, e.g. "Your coffee post got about 10× your usual views".
+- **Use it in the plan:**
+  - Topics and formats that did better than their usual get more slots.
+  - Ones that flopped get fewer.
+  - Write first lines in the voice they already use.
+  - If the profile itself is the problem (unclear bio, no link, nothing pinned), put that first under "Also worth doing".
+  - Use the profile's numbers to double-check their answer about what's holding them back (Step 2).
+
+## Step 1c: Check the platforms
 
 Read [references/platform-guide.md](references/platform-guide.md).
 
