@@ -8,7 +8,7 @@ Use this to plan around dates that change what customers do. **Lunar and Islamic
 |---|---|---|
 | Payday, around the 25th–1st | Monthly payday window | Put Conversion and Offer posts here. Avoid launching offers just before payday. |
 | 9.9, 10.10, 11.11, 12.12 | Double-date sales (Shopee, Lazada, TikTok Shop) | People are primed to buy. Run an offer only if it's genuine; otherwise run Awareness posts, because ads cost more that week. |
-| Late Nov | Black Friday / Cyber Monday | Mainly urban and online audiences |
+| Last Friday of Nov, then the Monday after | Black Friday / Cyber Monday | Mainly urban and online audiences |
 | 14 Feb | Valentine's Day | F&B, gifting, beauty, couples experiences |
 | Year-end, Dec | Year-end school holidays, bonus season | Family offers, gift cards, "new year, new you" set-up |
 
