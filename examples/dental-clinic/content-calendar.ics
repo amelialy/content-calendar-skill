@@ -10,12 +10,13 @@ DTSTART;VALUE=DATE:20270104
 DTEND;VALUE=DATE:20270105
 SUMMARY:[Instagram + Facebook] Back to school: kids' check-up before the te
  rm gets busy
-DESCRIPTION:Funnel: Retention | Format: Care tip\nHook: School starts today
- . When did your kids last see a dentist?\nBeats: Hook: first day of school
-  → Tension: term gets busy\, check-ups slip for months → Turn: a 6-mon
- th check catches small cavities early → Lesson: book now while the calen
- dar is clear → CTA\nCTA: WhatsApp us "KIDS" to book a family check-up sl
- ot\nMeasure: Repeat bookings from past patients (ask "visited us before?")
+DESCRIPTION:Goal: Bring them back | Style: Care tip\nFirst line: School sta
+ rts today. When did your kids last see a dentist?\nOutline: Open: first da
+ y of school → Problem: term gets busy\, check-ups slip for months → Tu
+ rning point: a 6-month check catches small cavities early → Lesson: book
+  now while the calendar is clear → Ask\nAsk them to: WhatsApp us "KIDS" 
+ to book a family check-up slot\nWorked if: Repeat bookings from past patie
+ nts (ask "visited us before?")
 BEGIN:VALARM
 TRIGGER:-PT6H
 ACTION:DISPLAY
@@ -30,13 +31,13 @@ DTSTART;VALUE=DATE:20270106
 DTEND;VALUE=DATE:20270107
 SUMMARY:[Instagram + Facebook] What happens in a check-up + scaling (RM 150
  )
-DESCRIPTION:Funnel: Consideration | Format: How we do it\nHook: Here is exa
- ctly what happens in your visit with us.\nBeats: Hook: "what actually
-  happens?" → Tension: not knowing makes people put it off → Turn: step
- -by-step walk-through (check\, x-ray if needed\, scaling\, polish\, advice
- ) → Proof: the standard we hold every visit → CTA\nCTA: Save this and 
- send it to someone who is nervous about the dentist\nMeasure: Profile visi
- ts and replies
+DESCRIPTION:Goal: Build trust | Style: How we do it\nFirst line: Here is ex
+ actly what happens in your visit with us.\nOutline: Open: "what actually h
+ appens?" → Problem: not knowing makes people put it off → Turning poin
+ t: step-by-step walk-through (check\, x-ray if needed\, scaling\, polish\,
+  advice) → Proof: the standard we hold every visit → Ask\nAsk them to:
+  Save this and send it to someone who is nervous about the dentist\nWorked
+  if: Profile visits and replies
 BEGIN:VALARM
 TRIGGER:-PT6H
 ACTION:DISPLAY
@@ -49,13 +50,13 @@ DTSTAMP:20261118T074729Z
 DTSTART;VALUE=DATE:20270108
 DTEND;VALUE=DATE:20270109
 SUMMARY:[Instagram + Facebook] "Does scaling hurt?"
-DESCRIPTION:Funnel: Conversion | Format: Objection buster\nHook: "Does scal
- ing hurt?" is the question we get most on WhatsApp. Honest answer:\nBeats:
-  Hook: the doubt in their words → Tension: fear of pain keeps people awa
- y for years → Turn: what it actually feels like and what we do to keep y
- ou comfortable → Proof: share a real patient message (with permission) 
- → CTA\nCTA: WhatsApp us to book check-up + scaling (RM 150)\nMeasure: Wh
- atsApp enquiries mentioning scaling
+DESCRIPTION:Goal: Get them to buy | Style: Answer a doubt\nFirst line: "Doe
+ s scaling hurt?" is the question we get most on WhatsApp. Honest answer:\n
+ Outline: Open: the doubt in their words → Problem: fear of pain keeps pe
+ ople away for years → Turning point: what it actually feels like and wha
+ t we do to keep you comfortable → Proof: share a real patient message (w
+ ith permission) → Ask\nAsk them to: WhatsApp us to book check-up + scali
+ ng (RM 150)\nWorked if: WhatsApp enquiries mentioning scaling
 BEGIN:VALARM
 TRIGGER:-PT6H
 ACTION:DISPLAY
@@ -68,13 +69,13 @@ DTSTAMP:20261118T074729Z
 DTSTART;VALUE=DATE:20270111
 DTEND;VALUE=DATE:20270112
 SUMMARY:[Instagram + Facebook] A family who has been coming to us for years
-DESCRIPTION:Funnel: Retention | Format: Customer spotlight\nHook: Some of o
- ur patients have been with us since we opened 8 years ago.\nBeats: Hook: 8
-  years of check-ups → Tension: life got busy\, they still came back ever
- y 6 months → Turn: what regular visits meant for them (in their words\, 
- with permission) → Thank-you → CTA\nCTA: Tag the family member you alw
- ays drag to the dentist\nMeasure: Tagged posts\, shares by patients and re
- ferrals
+DESCRIPTION:Goal: Bring them back | Style: Customer spotlight\nFirst line: 
+ Some of our patients have been with us since we opened 8 years ago.\nOutli
+ ne: Open: 8 years of check-ups → Problem: life got busy\, they still cam
+ e back every 6 months → Turning point: what regular visits meant for the
+ m (in their words\, with permission) → Thank-you → Ask\nAsk them to: T
+ ag the family member you always drag to the dentist\nWorked if: Tagged pos
+ ts\, shares by patients and referrals
 BEGIN:VALARM
 TRIGGER:-PT6H
 ACTION:DISPLAY
@@ -87,13 +88,13 @@ DTSTAMP:20261118T074729Z
 DTSTART;VALUE=DATE:20270113
 DTEND;VALUE=DATE:20270114
 SUMMARY:[Instagram + Facebook] Myth: "No pain means my teeth are fine"
-DESCRIPTION:Funnel: Awareness | Format: Myth vs truth\nHook: "My teeth don'
- t hurt\, so I don't need a check-up." That's the myth that costs people th
- e most.\nBeats: Hook: common belief → Tension: most cavities and gum pro
- blems are painless at first → Turn: why problems are cheaper to fix earl
- y → Lesson: the 6-month habit → CTA\nCTA: Share this with someone who 
- hasn't seen a dentist in a year\nMeasure: Shares\, saves and non-follower 
- reach
+DESCRIPTION:Goal: Get found | Style: Myth vs truth\nFirst line: "My teeth d
+ on't hurt\, so I don't need a check-up." That's the myth that costs people
+  the most.\nOutline: Open: common belief → Problem: most cavities and gu
+ m problems are painless at first → Turning point: why problems are cheap
+ er to fix early → Lesson: the 6-month habit → Ask\nAsk them to: Share 
+ this with someone who hasn't seen a dentist in a year\nWorked if: Shares\,
+  saves and reach beyond your followers
 BEGIN:VALARM
 TRIGGER:-PT6H
 ACTION:DISPLAY
@@ -107,13 +108,14 @@ DTSTART;VALUE=DATE:20270115
 DTEND;VALUE=DATE:20270116
 SUMMARY:[Instagram + Facebook] WhatsApp check-up reminders for past patient
  s
-DESCRIPTION:Funnel: Retention | Format: "You asked\, we built"\nHook: You t
- old us you forget when your check-up is due. Fair. So we fixed it.\nBeats:
-  Hook: what patients told us → Tension: 6 months goes fast and nobody re
- members → Turn: reply on WhatsApp and we tell you your last visit date a
- nd remind you when you are due (set this up before posting) → CTA: invit
- e more ideas\nCTA: WhatsApp "REMIND" to get your check-up date and a remin
- der\nMeasure: Reminder sign-ups and repeat bookings
+DESCRIPTION:Goal: Bring them back | Style: "You asked\, we built"\nFirst li
+ ne: You told us you forget when your check-up is due. Fair. So we fixed it
+ .\nOutline: Open: what patients told us → Problem: 6 months goes fast an
+ d nobody remembers → Turning point: reply on WhatsApp and we tell you yo
+ ur last visit date and remind you when you are due (set this up before pos
+ ting) → Ask: invite more ideas\nAsk them to: WhatsApp "REMIND" to get yo
+ ur check-up date and a reminder\nWorked if: Reminder sign-ups and repeat b
+ ookings
 BEGIN:VALARM
 TRIGGER:-PT6H
 ACTION:DISPLAY
@@ -127,13 +129,13 @@ DTSTART;VALUE=DATE:20270118
 DTEND;VALUE=DATE:20270119
 SUMMARY:[Instagram + Facebook] "Is my check-up covered by my company panel 
  or insurance?"
-DESCRIPTION:Funnel: Conversion | Format: FAQ answer\nHook: New year\, new p
- anel limit. Is your check-up covered?\nBeats: Hook: January resets many co
- mpany dental benefits → Tension: people pay out of pocket or let benefit
- s expire → Turn: how to check your panel/insurance and what to bring (li
- st the panels you really accept) → CTA\nCTA: WhatsApp us your company or
-  insurer name and we'll check for you\nMeasure: WhatsApp enquiries about p
- anel/insurance
+DESCRIPTION:Goal: Get them to buy | Style: Answer a common question\nFirst 
+ line: New year\, new panel limit. Is your check-up covered?\nOutline: Open
+ : January resets many company dental benefits → Problem: people pay out 
+ of pocket or let benefits expire → Turning point: how to check your pane
+ l/insurance and what to bring (list the panels you really accept) → Ask\
+ nAsk them to: WhatsApp us your company or insurer name and we'll check for
+  you\nWorked if: WhatsApp enquiries about panel/insurance
 BEGIN:VALARM
 TRIGGER:-PT6H
 ACTION:DISPLAY
@@ -147,12 +149,12 @@ DTSTAMP:20261118T074729Z
 DTSTART;VALUE=DATE:20270120
 DTEND;VALUE=DATE:20270121
 SUMMARY:[Instagram + Facebook] 8 years of smiles in Subang Jaya
-DESCRIPTION:Funnel: Retention | Format: Milestone with the community\nHook:
-  8 years ago we opened our doors in Subang Jaya. This one is for you.\nBea
- ts: Hook: the 8-year moment → Tension: the early days (founder memory) 
- → Turn: credit to the families who kept coming back → What's next for 
- the clinic → CTA\nCTA: Leave us a Google review if we've looked after yo
- ur family\nMeasure: New Google reviews
+DESCRIPTION:Goal: Bring them back | Style: Milestone with the community\nFi
+ rst line: 8 years ago we opened our doors in Subang Jaya. This one is for 
+ you.\nOutline: Open: the 8-year moment → Problem: the early days (founde
+ r memory) → Turning point: credit to the families who kept coming back 
+ → What's next for the clinic → Ask\nAsk them to: Leave us a Google rev
+ iew if we've looked after your family\nWorked if: New Google reviews
 BEGIN:VALARM
 TRIGGER:-PT6H
 ACTION:DISPLAY
@@ -166,13 +168,13 @@ DTSTART;VALUE=DATE:20270122
 DTEND;VALUE=DATE:20270123
 SUMMARY:[Instagram + Facebook] Keep your scaling results until your next vi
  sit
-DESCRIPTION:Funnel: Retention | Format: Care tip\nHook: Had your teeth clea
- ned recently? Here's how to keep that feeling for 6 months.\nBeats: Hook: 
- that post-scaling clean feeling → Tension: plaque builds back in weeks 
- → Turn: 3 daily habits (brushing\, flossing\, what to cut back on) → L
- esson: your next check-up keeps it on track → CTA (gentle\, no hard sell
-  on Thaipusam)\nCTA: Save this\, and book your next check-up when you're d
- ue\nMeasure: Saves and repeat bookings
+DESCRIPTION:Goal: Bring them back | Style: Care tip\nFirst line: Had your t
+ eeth cleaned recently? Here's how to keep that feeling for 6 months.\nOutl
+ ine: Open: that post-scaling clean feeling → Problem: plaque builds back
+  in weeks → Turning point: 3 daily habits (brushing\, flossing\, what to
+  cut back on) → Lesson: your next check-up keeps it on track → Ask (ge
+ ntle\, no hard sell on Thaipusam)\nAsk them to: Save this\, and book your 
+ next check-up when you're due\nWorked if: Saves and repeat bookings
 BEGIN:VALARM
 TRIGGER:-PT6H
 ACTION:DISPLAY
@@ -186,12 +188,13 @@ DTSTART;VALUE=DATE:20270125
 DTEND;VALUE=DATE:20270126
 SUMMARY:[Instagram + Facebook] What we check before we ever whiten your tee
  th
-DESCRIPTION:Funnel: Consideration | Format: Behind the scenes\nHook: Before
-  we whiten anyone's teeth\, there are a few things we always check first.\
- nBeats: Hook: what you don't see before whitening → Tension: whitening o
- n unhealthy teeth or gums causes problems → Turn: our pre-whitening chec
- ks → Why it matters: safe results that last → CTA\nCTA: Reply with any
-  whitening question you have\nMeasure: Replies and profile visits
+DESCRIPTION:Goal: Build trust | Style: Behind the scenes\nFirst line: Befor
+ e we whiten anyone's teeth\, there are a few things we always check first.
+ \nOutline: Open: what you don't see before whitening → Problem: whitenin
+ g on unhealthy teeth or gums causes problems → Turning point: our pre-wh
+ itening checks → Why it matters: safe results that last → Ask\nAsk the
+ m to: Reply with any whitening question you have\nWorked if: Replies and p
+ rofile visits
 BEGIN:VALARM
 TRIGGER:-PT6H
 ACTION:DISPLAY
@@ -205,13 +208,14 @@ DTSTART;VALUE=DATE:20270127
 DTEND;VALUE=DATE:20270128
 SUMMARY:[Instagram + Facebook] "How much is whitening and is it safe?" Home
   kits vs dentist
-DESCRIPTION:Funnel: Conversion | Format: Comparison\nHook: Whitening strips
- \, online kits or the dentist? Here's the honest comparison.\nBeats: Hook:
-  the options people weigh → Tension: cheap kits can cause sensitivity an
- d patchy results → Turn: who each option suits\, and what in-clinic whit
- ening (RM 1\,200) includes → Proof: real before/after (with permission) 
- → CTA: book before CNY photos\nCTA: WhatsApp "WHITEN" to book a pre-CNY 
- whitening consult\nMeasure: WhatsApp enquiries and whitening bookings
+DESCRIPTION:Goal: Get them to buy | Style: Comparison\nFirst line: Whitenin
+ g strips\, online kits or the dentist? Here's the honest comparison.\nOutl
+ ine: Open: the options people weigh → Problem: cheap kits can cause sens
+ itivity and patchy results → Turning point: who each option suits\, and 
+ what in-clinic whitening (RM 1\,200) includes → Proof: real before/after
+  (with permission) → Ask: book before CNY photos\nAsk them to: WhatsApp 
+ "WHITEN" to book a pre-CNY whitening consult\nWorked if: WhatsApp enquirie
+ s and whitening bookings
 BEGIN:VALARM
 TRIGGER:-PT6H
 ACTION:DISPLAY
@@ -226,13 +230,13 @@ DTSTART;VALUE=DATE:20270129
 DTEND;VALUE=DATE:20270130
 SUMMARY:[Instagram + Facebook] Past patients: get your check-up in before C
  NY
-DESCRIPTION:Funnel: Retention | Format: Insider / members-first\nHook: If y
- ou've been to Seri Smile before\, this one is for you.\nBeats: Hook: speak
- ing to past patients only → Tension: pre-CNY slots fill fast and the cli
- nic closes for the holidays (confirm dates) → Turn: past patients get fi
- rst pick of the last January slots → How to claim → CTA\nCTA: WhatsApp
-  "RECALL" with your name and we'll find your slot\nMeasure: Repeat booking
- s from past patients
+DESCRIPTION:Goal: Bring them back | Style: Customers first\nFirst line: If 
+ you've been to Seri Smile before\, this one is for you.\nOutline: Open: sp
+ eaking to past patients only → Problem: pre-CNY slots fill fast and the 
+ clinic closes for the holidays (confirm dates) → Turning point: past pat
+ ients get first pick of the last January slots → How to claim → Ask\nA
+ sk them to: WhatsApp "RECALL" with your name and we'll find your slot\nWor
+ ked if: Repeat bookings from past patients
 BEGIN:VALARM
 TRIGGER:-PT6H
 ACTION:DISPLAY
