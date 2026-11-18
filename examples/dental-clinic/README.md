@@ -29,7 +29,7 @@ An **established** business with a **retention** problem.
 
 ## Files
 
-- [`content-calendar.html`](content-calendar.html): the visual planner. Download it and open it in a browser.
+- [`content-calendar.html`](content-calendar.html): the visual planner. **[Open it live](https://amelialy.github.io/content-calendar-skill/examples/dental-clinic/content-calendar.html)**, or download it and open it in a browser.
 - [`content-calendar.csv`](content-calendar.csv): 12 posts, each with its goal, theme, story style, first line, outline, what to ask people to do, and how you'll know it worked
 - [`content-calendar.ics`](content-calendar.ics): 12 all-day events
 
