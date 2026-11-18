@@ -10,7 +10,9 @@ It's made for **small businesses, startups and personal brands**, on any platfor
 - Where is your business right now? *(not launched yet · a few customers · selling steadily · well known)*
 - What's the biggest problem? *(not many people see my posts · people see but don't message · people ask but don't buy · customers don't come back)*
 - How often can you post, where, and for how long?
-- What do you sell, and what do customers ask before buying?
+- Your profile link, what you sell, and what customers ask before buying
+
+**It looks at your profile first.** It reads your public profile, without logging in, to see which posts already work for you, which don't, and whether your bio makes people want to follow. If it can't open the profile, it asks for a screenshot. Then the plan does more of what works.
 
 **2. It tells you, in plain words, where you stand.**
 
@@ -64,6 +66,7 @@ Restart Claude Code and ask: *"Make me a content calendar for my business."*
 skills/content-calendar/
 ├── SKILL.md                  # the steps Claude follows
 └── references/
+    ├── profile-check.md      # how to read a profile and what to learn from it
     ├── stages-and-leaks.md   # working out where a business is and what's holding it back
     ├── funnel-mix.md         # how many posts of each kind to plan
     ├── story-formats.md      # story styles for each kind of post
