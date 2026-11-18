@@ -1,0 +1,342 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//content-calendar-skill//EN
+CALSCALE:GREGORIAN
+X-WR-CALNAME:Content
+BEGIN:VEVENT
+UID:20261207-1@content-calendar
+DTSTAMP:20261118T090000Z
+DTSTART;VALUE=DATE:20261207
+DTEND;VALUE=DATE:20261208
+SUMMARY:[Instagram + TikTok] The afternoon coffee run
+DESCRIPTION:Funnel: Awareness | Format: Hot take\nHook: The afternoon coffe
+ e run is the longest meeting nobody put in the calendar.\nBeats: Hook: the
+  run as a meeting -> Tension: queue\, walk\, lost focus -> Turn: what if t
+ he coffee was already in the office fridge -> Lesson: protect your afterno
+ on -> CTA: agree or disagree?\nCTA: Comment: team coffee run or desk coffe
+ e?\nMeasure: Shares + saves\; reach from non-followers
+BEGIN:VALARM
+TRIGGER:-PT6H
+ACTION:DISPLAY
+DESCRIPTION:Post tomorrow: The afternoon coffee run
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:20261209-2@content-calendar
+DTSTAMP:20261118T090000Z
+DTSTART;VALUE=DATE:20261209
+DTEND;VALUE=DATE:20261210
+SUMMARY:[Instagram + TikTok] Cold brew is not just iced coffee
+DESCRIPTION:Funnel: Awareness | Format: Myth vs truth\nHook: "Cold brew is 
+ just iced coffee." It isn't.\nBeats: Hook: the myth -> Tension: most peopl
+ e have only had hot coffee poured over ice -> Turn: cold brew is steeped c
+ old for [your steep time] -> Lesson: what that changes in the cup [your ta
+ ste notes] -> CTA: save\nCTA: Save this and send it to your iced-latte fri
+ end\nMeasure: Shares + saves\; reach from non-followers
+BEGIN:VALARM
+TRIGGER:-PT6H
+ACTION:DISPLAY
+DESCRIPTION:Post tomorrow: Cold brew is not just iced coffee
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:20261210-3@content-calendar
+DTSTAMP:20261118T090000Z
+DTSTART;VALUE=DATE:20261210
+DTEND;VALUE=DATE:20261211
+SUMMARY:[Instagram + TikTok] Why Kopi Kawan started
+DESCRIPTION:Funnel: Awareness | Format: Hook-Story-Lesson\nHook: Kopi Kawan
+  started with [the moment you decided to start it].\nBeats: Hook: the mome
+ nt -> Tension: [the problem you kept seeing at the office] -> Turn: [first
+  batch you brewed] -> Lesson: why office workers deserve better coffee at 
+ their desk -> CTA: follow the build\nCTA: Follow to watch us get to launch
+ \nMeasure: Shares + saves\; reach from non-followers
+BEGIN:VALARM
+TRIGGER:-PT6H
+ACTION:DISPLAY
+DESCRIPTION:Post tomorrow: Why Kopi Kawan started
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:20261214-4@content-calendar
+DTSTAMP:20261118T090000Z
+DTSTART;VALUE=DATE:20261214
+DTEND;VALUE=DATE:20261215
+SUMMARY:[Instagram + TikTok] Beat the 3pm slump at your desk
+DESCRIPTION:Funnel: Awareness | Format: Quick win\nHook: 3 things to try be
+ fore you reach for a second coffee at 3pm.\nBeats: Hook: the 3pm slump -> 
+ Tension: second coffee\, sugar\, scrolling -> Turn: 3 desk-friendly steps 
+ [water / stand-up stretch / light snack] -> Lesson: small resets beat big 
+ fixes -> CTA: save\nCTA: Save for your next 3pm\nMeasure: Shares + saves\;
+  reach from non-followers
+BEGIN:VALARM
+TRIGGER:-PT6H
+ACTION:DISPLAY
+DESCRIPTION:Post tomorrow: Beat the 3pm slump at your desk
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:20261216-5@content-calendar
+DTSTAMP:20261118T090000Z
+DTSTART;VALUE=DATE:20261216
+DTEND;VALUE=DATE:20261217
+SUMMARY:[Instagram + TikTok] How is it different from 7-Eleven canned coffe
+ e? And how long does it keep?
+DESCRIPTION:Funnel: Conversion | Format: Objection buster\nHook: "How is th
+ is different from 7-Eleven canned coffee?" Fair question.\nBeats: Hook: th
+ e question in customers' words -> Tension: canned coffee is cheap and ever
+ ywhere -> Turn: honest answer [how your brew\, ingredients and bottling di
+ ffer] -> Proof: keeps [X days] in the fridge [your storage advice] -> CTA:
+  join the waitlist\nCTA: Join the waitlist - link in bio\nMeasure: Waitlis
+ t sign-ups (link clicks + DMs)
+BEGIN:VALARM
+TRIGGER:-PT6H
+ACTION:DISPLAY
+DESCRIPTION:Post tomorrow: How is it different from 7-Eleven canned coffee?
+  And how long does it keep?
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:20261218-6@content-calendar
+DTSTAMP:20261118T090000Z
+DTSTART;VALUE=DATE:20261218
+DTEND;VALUE=DATE:20261219
+SUMMARY:[Instagram + TikTok] What I got wrong about office coffee
+DESCRIPTION:Funnel: Awareness | Format: "I used to think..."\nHook: I used 
+ to think [old belief about office coffee].\nBeats: Hook: old belief -> Ten
+ sion: [your own café-run habit or cost] -> Turn: [what changed your mind]
+  -> Lesson: good coffee can live in the office fridge -> CTA: share\nCTA: 
+ Share with the colleague who does the coffee run\nMeasure: Shares + saves\
+ ; reach from non-followers
+BEGIN:VALARM
+TRIGGER:-PT6H
+ACTION:DISPLAY
+DESCRIPTION:Post tomorrow: What I got wrong about office coffee
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:20261221-7@content-calendar
+DTSTAMP:20261118T090000Z
+DTSTART;VALUE=DATE:20261221
+DTEND;VALUE=DATE:20261222
+SUMMARY:[Instagram + TikTok] Three ways to drink cold brew this holiday
+DESCRIPTION:Funnel: Awareness | Format: Quick win\nHook: 3 ways to drink co
+ ld brew on your year-end leave.\nBeats: Hook: holiday mode -> Tension: sam
+ e coffee every day gets boring -> Turn: 3 serves [black over ice / with mi
+ lk / your own twist] -> Lesson: one brew\, different moods -> CTA: save\nC
+ TA: Save and tell us which one you would try\nMeasure: Shares + saves\; re
+ ach from non-followers
+BEGIN:VALARM
+TRIGGER:-PT6H
+ACTION:DISPLAY
+DESCRIPTION:Post tomorrow: Three ways to drink cold brew this holiday
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:20261223-8@content-calendar
+DTSTAMP:20261118T090000Z
+DTSTART;VALUE=DATE:20261223
+DTEND;VALUE=DATE:20261224
+SUMMARY:[Instagram + TikTok] Why we called it Kopi Kawan
+DESCRIPTION:Funnel: Awareness | Format: Hook-Story-Lesson\nHook: Why "Kopi 
+ Kawan"? [the story behind the name].\nBeats: Hook: the name -> Tension: [n
+ ames you rejected / why naming was hard] -> Turn: [why "kawan"] -> Lesson:
+  coffee as the friend at your desk -> CTA: follow\nCTA: Follow - first bot
+ tles go out in January\nMeasure: Shares + saves\; reach from non-followers
+BEGIN:VALARM
+TRIGGER:-PT6H
+ACTION:DISPLAY
+DESCRIPTION:Post tomorrow: Why we called it Kopi Kawan
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:20261224-9@content-calendar
+DTSTAMP:20261118T090000Z
+DTSTART;VALUE=DATE:20261224
+DTEND;VALUE=DATE:20261225
+SUMMARY:[Instagram + TikTok] Fix your workday coffee habit before January
+DESCRIPTION:Funnel: Awareness | Format: Hot take\nHook: Don't wait for Janu
+ ary to fix your workday coffee habit.\nBeats: Hook: the take -> Tension: n
+ ew-year resolutions start late and fade fast -> Turn: decide your weekday 
+ coffee routine now\, while the office is quiet -> Lesson: routines start b
+ efore the rush -> CTA: disagree?\nCTA: Comment: what does your workday cof
+ fee look like?\nMeasure: Shares + saves\; reach from non-followers
+BEGIN:VALARM
+TRIGGER:-PT6H
+ACTION:DISPLAY
+DESCRIPTION:Post tomorrow: Fix your workday coffee habit before January
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:20261228-10@content-calendar
+DTSTAMP:20261118T090000Z
+DTSTART;VALUE=DATE:20261228
+DTEND;VALUE=DATE:20261229
+SUMMARY:[Instagram + TikTok] You do not need a fancy machine for good offic
+ e coffee
+DESCRIPTION:Funnel: Awareness | Format: Myth vs truth\nHook: "You need a fa
+ ncy machine for good coffee at the office." Not true.\nBeats: Hook: the my
+ th -> Tension: machines cost money\, space and cleaning -> Turn: cold brew
+  is made ahead and kept cold -> Lesson: good coffee can be ready before yo
+ u sit down -> CTA: share\nCTA: Tag the colleague who guards the office mac
+ hine\nMeasure: Shares + saves\; reach from non-followers
+BEGIN:VALARM
+TRIGGER:-PT6H
+ACTION:DISPLAY
+DESCRIPTION:Post tomorrow: You do not need a fancy machine for good office 
+ coffee
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:20261230-11@content-calendar
+DTSTAMP:20261118T090000Z
+DTSTART;VALUE=DATE:20261230
+DTEND;VALUE=DATE:20261231
+SUMMARY:[Instagram + TikTok] 11 January: first bottles
+DESCRIPTION:Funnel: Awareness | Format: Hook-Story-Lesson (Tease)\nHook: On
+  11 January\, the first Kopi Kawan bottles go out.\nBeats: Hook: the date 
+ -> Tension: [what it took to get here] -> Turn: a glimpse of [a bottle / l
+ abel / brew day\, not the full reveal] -> Lesson: built for Klang Valley o
+ ffice workers -> CTA: follow and join the waitlist\nCTA: Follow so you don
+ 't miss the reveal\nMeasure: Shares + saves\; reach from non-followers
+BEGIN:VALARM
+TRIGGER:-PT6H
+ACTION:DISPLAY
+DESCRIPTION:Post tomorrow: 11 January: first bottles
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:20261231-12@content-calendar
+DTSTAMP:20261118T090000Z
+DTSTART;VALUE=DATE:20261231
+DTEND;VALUE=DATE:20270101
+SUMMARY:[Instagram + TikTok] New year\, same desk
+DESCRIPTION:Funnel: Awareness | Format: Quick win\nHook: New year\, same de
+ sk: 3 small swaps for a better workday.\nBeats: Hook: back-to-work dread -
+ > Tension: same routine\, same slump -> Turn: 3 swaps [desk setup / break 
+ timing / pre-planned coffee] -> Lesson: small changes stick -> CTA: save\n
+ CTA: Save for your first Monday back\nMeasure: Shares + saves\; reach from
+  non-followers
+BEGIN:VALARM
+TRIGGER:-PT6H
+ACTION:DISPLAY
+DESCRIPTION:Post tomorrow: New year\, same desk
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:20270104-13@content-calendar
+DTSTAMP:20261118T090000Z
+DTSTART;VALUE=DATE:20270104
+DTEND;VALUE=DATE:20270105
+SUMMARY:[Instagram + TikTok] Meet Kopi Kawan: how it works and what it cost
+ s
+DESCRIPTION:Funnel: Consideration | Format: How we do it (Reveal)\nHook: Ko
+ pi Kawan: cold brew for Klang Valley office workers. RM 89 a month for 8 b
+ ottles.\nBeats: Hook: what it is and the price -> Tension: the daily coffe
+ e run -> Turn: how it works step by step [brew -> bottle -> delivery day a
+ nd area] -> Lesson: the standard we hold [your quality standard] -> CTA: j
+ oin the waitlist\nCTA: Join the waitlist - first deliveries 11 January\nMe
+ asure: Profile visits + follows
+BEGIN:VALARM
+TRIGGER:-PT6H
+ACTION:DISPLAY
+DESCRIPTION:Post tomorrow: Meet Kopi Kawan: how it works and what it costs
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:20270106-14@content-calendar
+DTSTAMP:20261118T090000Z
+DTSTART;VALUE=DATE:20270106
+DTEND;VALUE=DATE:20270107
+SUMMARY:[Instagram + TikTok] Brew day before launch
+DESCRIPTION:Funnel: Consideration | Format: Behind the scenes (Proof)\nHook
+ : Before the first delivery\, here's what goes into every batch.\nBeats: H
+ ook: brew day -> Tension: what customers never see [your process steps] ->
+  Turn: [tester feedback from a taster session\, quoted with permission] ->
+  Lesson: why the care matters -> CTA: follow / waitlist\nCTA: Reply with y
+ our questions before launch\nMeasure: Profile visits + follows
+BEGIN:VALARM
+TRIGGER:-PT6H
+ACTION:DISPLAY
+DESCRIPTION:Post tomorrow: Brew day before launch
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:20270108-15@content-calendar
+DTSTAMP:20261118T090000Z
+DTSTART;VALUE=DATE:20270108
+DTEND;VALUE=DATE:20270109
+SUMMARY:[Instagram + TikTok] Can I pause? Plus RM 69 first month for the wa
+ itlist
+DESCRIPTION:Funnel: Conversion | Format: Objection buster (Offer)\nHook: "C
+ an I pause the subscription?" Here's the honest answer.\nBeats: Hook: the 
+ question in customers' words -> Tension: nobody wants to be locked in -> T
+ urn: [your pause / skip policy] -> Proof: waitlist members get their first
+  month for RM 69 instead of RM 89\; orders close 15 January -> CTA: join t
+ he waitlist\nCTA: Join the waitlist to claim RM 69 - link in bio\nMeasure:
+  Waitlist sign-ups (link clicks + DMs)
+BEGIN:VALARM
+TRIGGER:-PT6H
+ACTION:DISPLAY
+DESCRIPTION:Post tomorrow: Can I pause? Plus RM 69 first month for the wait
+ list
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:20270111-16@content-calendar
+DTSTAMP:20261118T090000Z
+DTSTART;VALUE=DATE:20270111
+DTEND;VALUE=DATE:20270112
+SUMMARY:[Instagram + TikTok] Launch day: first deliveries
+DESCRIPTION:Funnel: Awareness | Format: Hook-Story-Lesson\nHook: Today the 
+ first Kopi Kawan bottles go out to Klang Valley offices.\nBeats: Hook: lau
+ nch day -> Tension: [the hardest part of getting here] -> Turn: [first del
+ ivery moment\, photo or clip] -> Lesson: [what you learned building it] ->
+  CTA: share\nCTA: Share this with your office group chat\nMeasure: Shares 
+ + saves\; reach from non-followers
+BEGIN:VALARM
+TRIGGER:-PT6H
+ACTION:DISPLAY
+DESCRIPTION:Post tomorrow: Launch day: first deliveries
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:20270113-17@content-calendar
+DTSTAMP:20261118T090000Z
+DTSTART;VALUE=DATE:20270113
+DTEND;VALUE=DATE:20270114
+SUMMARY:[Instagram + TikTok] Last call: RM 69 waitlist first month closes F
+ riday
+DESCRIPTION:Funnel: Conversion | Format: Offer post (Last call)\nHook: Wait
+ list members: your RM 69 first month closes this Friday\, 15 January.\nBea
+ ts: Hook: deadline -> Tension: after Friday it's RM 89 a month -> Turn: wh
+ at you get [8 bottles a month\, delivery details] -> Lesson: who it's for 
+ (waitlist members) -> CTA: order before 15 January\nCTA: Order before Frid
+ ay 15 January - link in bio\nMeasure: Orders placed by waitlist members (D
+ Ms + link clicks)
+BEGIN:VALARM
+TRIGGER:-PT6H
+ACTION:DISPLAY
+DESCRIPTION:Post tomorrow: Last call: RM 69 waitlist first month closes Fri
+ day
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:20270115-18@content-calendar
+DTSTAMP:20261118T090000Z
+DTSTART;VALUE=DATE:20270115
+DTEND;VALUE=DATE:20270116
+SUMMARY:[Instagram + TikTok] The best office perk
+DESCRIPTION:Funnel: Awareness | Format: Hot take\nHook: The best office per
+ k isn't a coffee machine. It's never queuing for coffee again.\nBeats: Hoo
+ k: the take -> Tension: perks nobody uses -> Turn: what office workers act
+ ually want [ask your audience] -> Lesson: small daily wins beat big perks 
+ -> CTA: disagree?\nCTA: Comment the office perk you'd actually use\nMeasur
+ e: Shares + saves\; reach from non-followers
+BEGIN:VALARM
+TRIGGER:-PT6H
+ACTION:DISPLAY
+DESCRIPTION:Post tomorrow: The best office perk
+END:VALARM
+END:VEVENT
+END:VCALENDAR
