@@ -1,0 +1,242 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//content-calendar-skill//EN
+CALSCALE:GREGORIAN
+X-WR-CALNAME:Content
+BEGIN:VEVENT
+UID:20270104-1@content-calendar
+DTSTAMP:20261118T074729Z
+DTSTART;VALUE=DATE:20270104
+DTEND;VALUE=DATE:20270105
+SUMMARY:[Instagram + Facebook] Back to school: kids' check-up before the te
+ rm gets busy
+DESCRIPTION:Funnel: Retention | Format: Care tip\nHook: School starts today
+ . When did your kids last see a dentist?\nBeats: Hook: first day of school
+  → Tension: term gets busy\, check-ups slip for months → Turn: a 6-mon
+ th check catches small cavities early → Lesson: book now while the calen
+ dar is clear → CTA\nCTA: WhatsApp us "KIDS" to book a family check-up sl
+ ot\nMeasure: Repeat bookings from past patients (ask "visited us before?")
+BEGIN:VALARM
+TRIGGER:-PT6H
+ACTION:DISPLAY
+DESCRIPTION:Post tomorrow: Back to school: kids' check-up before the term g
+ ets busy
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:20270106-2@content-calendar
+DTSTAMP:20261118T074729Z
+DTSTART;VALUE=DATE:20270106
+DTEND;VALUE=DATE:20270107
+SUMMARY:[Instagram + Facebook] What happens in a check-up + scaling (RM 150
+ )
+DESCRIPTION:Funnel: Consideration | Format: How we do it\nHook: Here is exa
+ ctly what happens in your visit with us.\nBeats: Hook: "what actually
+  happens?" → Tension: not knowing makes people put it off → Turn: step
+ -by-step walk-through (check\, x-ray if needed\, scaling\, polish\, advice
+ ) → Proof: the standard we hold every visit → CTA\nCTA: Save this and 
+ send it to someone who is nervous about the dentist\nMeasure: Profile visi
+ ts and replies
+BEGIN:VALARM
+TRIGGER:-PT6H
+ACTION:DISPLAY
+DESCRIPTION:Post tomorrow: What happens in a check-up + scaling (RM 150)
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:20270108-3@content-calendar
+DTSTAMP:20261118T074729Z
+DTSTART;VALUE=DATE:20270108
+DTEND;VALUE=DATE:20270109
+SUMMARY:[Instagram + Facebook] "Does scaling hurt?"
+DESCRIPTION:Funnel: Conversion | Format: Objection buster\nHook: "Does scal
+ ing hurt?" is the question we get most on WhatsApp. Honest answer:\nBeats:
+  Hook: the doubt in their words → Tension: fear of pain keeps people awa
+ y for years → Turn: what it actually feels like and what we do to keep y
+ ou comfortable → Proof: share a real patient message (with permission) 
+ → CTA\nCTA: WhatsApp us to book check-up + scaling (RM 150)\nMeasure: Wh
+ atsApp enquiries mentioning scaling
+BEGIN:VALARM
+TRIGGER:-PT6H
+ACTION:DISPLAY
+DESCRIPTION:Post tomorrow: "Does scaling hurt?"
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:20270111-4@content-calendar
+DTSTAMP:20261118T074729Z
+DTSTART;VALUE=DATE:20270111
+DTEND;VALUE=DATE:20270112
+SUMMARY:[Instagram + Facebook] A family who has been coming to us for years
+DESCRIPTION:Funnel: Retention | Format: Customer spotlight\nHook: Some of o
+ ur patients have been with us since we opened 8 years ago.\nBeats: Hook: 8
+  years of check-ups → Tension: life got busy\, they still came back ever
+ y 6 months → Turn: what regular visits meant for them (in their words\, 
+ with permission) → Thank-you → CTA\nCTA: Tag the family member you alw
+ ays drag to the dentist\nMeasure: Tagged posts\, shares by patients and re
+ ferrals
+BEGIN:VALARM
+TRIGGER:-PT6H
+ACTION:DISPLAY
+DESCRIPTION:Post tomorrow: A family who has been coming to us for years
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:20270113-5@content-calendar
+DTSTAMP:20261118T074729Z
+DTSTART;VALUE=DATE:20270113
+DTEND;VALUE=DATE:20270114
+SUMMARY:[Instagram + Facebook] Myth: "No pain means my teeth are fine"
+DESCRIPTION:Funnel: Awareness | Format: Myth vs truth\nHook: "My teeth don'
+ t hurt\, so I don't need a check-up." That's the myth that costs people th
+ e most.\nBeats: Hook: common belief → Tension: most cavities and gum pro
+ blems are painless at first → Turn: why problems are cheaper to fix earl
+ y → Lesson: the 6-month habit → CTA\nCTA: Share this with someone who 
+ hasn't seen a dentist in a year\nMeasure: Shares\, saves and non-follower 
+ reach
+BEGIN:VALARM
+TRIGGER:-PT6H
+ACTION:DISPLAY
+DESCRIPTION:Post tomorrow: Myth: "No pain means my teeth are fine"
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:20270115-6@content-calendar
+DTSTAMP:20261118T074729Z
+DTSTART;VALUE=DATE:20270115
+DTEND;VALUE=DATE:20270116
+SUMMARY:[Instagram + Facebook] WhatsApp check-up reminders for past patient
+ s
+DESCRIPTION:Funnel: Retention | Format: "You asked\, we built"\nHook: You t
+ old us you forget when your check-up is due. Fair. So we fixed it.\nBeats:
+  Hook: what patients told us → Tension: 6 months goes fast and nobody re
+ members → Turn: reply on WhatsApp and we tell you your last visit date a
+ nd remind you when you are due (set this up before posting) → CTA: invit
+ e more ideas\nCTA: WhatsApp "REMIND" to get your check-up date and a remin
+ der\nMeasure: Reminder sign-ups and repeat bookings
+BEGIN:VALARM
+TRIGGER:-PT6H
+ACTION:DISPLAY
+DESCRIPTION:Post tomorrow: WhatsApp check-up reminders for past patients
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:20270118-7@content-calendar
+DTSTAMP:20261118T074729Z
+DTSTART;VALUE=DATE:20270118
+DTEND;VALUE=DATE:20270119
+SUMMARY:[Instagram + Facebook] "Is my check-up covered by my company panel 
+ or insurance?"
+DESCRIPTION:Funnel: Conversion | Format: FAQ answer\nHook: New year\, new p
+ anel limit. Is your check-up covered?\nBeats: Hook: January resets many co
+ mpany dental benefits → Tension: people pay out of pocket or let benefit
+ s expire → Turn: how to check your panel/insurance and what to bring (li
+ st the panels you really accept) → CTA\nCTA: WhatsApp us your company or
+  insurer name and we'll check for you\nMeasure: WhatsApp enquiries about p
+ anel/insurance
+BEGIN:VALARM
+TRIGGER:-PT6H
+ACTION:DISPLAY
+DESCRIPTION:Post tomorrow: "Is my check-up covered by my company panel or i
+ nsurance?"
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:20270120-8@content-calendar
+DTSTAMP:20261118T074729Z
+DTSTART;VALUE=DATE:20270120
+DTEND;VALUE=DATE:20270121
+SUMMARY:[Instagram + Facebook] 8 years of smiles in Subang Jaya
+DESCRIPTION:Funnel: Retention | Format: Milestone with the community\nHook:
+  8 years ago we opened our doors in Subang Jaya. This one is for you.\nBea
+ ts: Hook: the 8-year moment → Tension: the early days (founder memory) 
+ → Turn: credit to the families who kept coming back → What's next for 
+ the clinic → CTA\nCTA: Leave us a Google review if we've looked after yo
+ ur family\nMeasure: New Google reviews
+BEGIN:VALARM
+TRIGGER:-PT6H
+ACTION:DISPLAY
+DESCRIPTION:Post tomorrow: 8 years of smiles in Subang Jaya
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:20270122-9@content-calendar
+DTSTAMP:20261118T074729Z
+DTSTART;VALUE=DATE:20270122
+DTEND;VALUE=DATE:20270123
+SUMMARY:[Instagram + Facebook] Keep your scaling results until your next vi
+ sit
+DESCRIPTION:Funnel: Retention | Format: Care tip\nHook: Had your teeth clea
+ ned recently? Here's how to keep that feeling for 6 months.\nBeats: Hook: 
+ that post-scaling clean feeling → Tension: plaque builds back in weeks 
+ → Turn: 3 daily habits (brushing\, flossing\, what to cut back on) → L
+ esson: your next check-up keeps it on track → CTA (gentle\, no hard sell
+  on Thaipusam)\nCTA: Save this\, and book your next check-up when you're d
+ ue\nMeasure: Saves and repeat bookings
+BEGIN:VALARM
+TRIGGER:-PT6H
+ACTION:DISPLAY
+DESCRIPTION:Post tomorrow: Keep your scaling results until your next visit
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:20270125-10@content-calendar
+DTSTAMP:20261118T074729Z
+DTSTART;VALUE=DATE:20270125
+DTEND;VALUE=DATE:20270126
+SUMMARY:[Instagram + Facebook] What we check before we ever whiten your tee
+ th
+DESCRIPTION:Funnel: Consideration | Format: Behind the scenes\nHook: Before
+  we whiten anyone's teeth\, there are a few things we always check first.\
+ nBeats: Hook: what you don't see before whitening → Tension: whitening o
+ n unhealthy teeth or gums causes problems → Turn: our pre-whitening chec
+ ks → Why it matters: safe results that last → CTA\nCTA: Reply with any
+  whitening question you have\nMeasure: Replies and profile visits
+BEGIN:VALARM
+TRIGGER:-PT6H
+ACTION:DISPLAY
+DESCRIPTION:Post tomorrow: What we check before we ever whiten your teeth
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:20270127-11@content-calendar
+DTSTAMP:20261118T074729Z
+DTSTART;VALUE=DATE:20270127
+DTEND;VALUE=DATE:20270128
+SUMMARY:[Instagram + Facebook] "How much is whitening and is it safe?" Home
+  kits vs dentist
+DESCRIPTION:Funnel: Conversion | Format: Comparison\nHook: Whitening strips
+ \, online kits or the dentist? Here's the honest comparison.\nBeats: Hook:
+  the options people weigh → Tension: cheap kits can cause sensitivity an
+ d patchy results → Turn: who each option suits\, and what in-clinic whit
+ ening (RM 1\,200) includes → Proof: real before/after (with permission) 
+ → CTA: book before CNY photos\nCTA: WhatsApp "WHITEN" to book a pre-CNY 
+ whitening consult\nMeasure: WhatsApp enquiries and whitening bookings
+BEGIN:VALARM
+TRIGGER:-PT6H
+ACTION:DISPLAY
+DESCRIPTION:Post tomorrow: "How much is whitening and is it safe?" Home kit
+ s vs dentist
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:20270129-12@content-calendar
+DTSTAMP:20261118T074729Z
+DTSTART;VALUE=DATE:20270129
+DTEND;VALUE=DATE:20270130
+SUMMARY:[Instagram + Facebook] Past patients: get your check-up in before C
+ NY
+DESCRIPTION:Funnel: Retention | Format: Insider / members-first\nHook: If y
+ ou've been to Seri Smile before\, this one is for you.\nBeats: Hook: speak
+ ing to past patients only → Tension: pre-CNY slots fill fast and the cli
+ nic closes for the holidays (confirm dates) → Turn: past patients get fi
+ rst pick of the last January slots → How to claim → CTA\nCTA: WhatsApp
+  "RECALL" with your name and we'll find your slot\nMeasure: Repeat booking
+ s from past patients
+BEGIN:VALARM
+TRIGGER:-PT6H
+ACTION:DISPLAY
+DESCRIPTION:Post tomorrow: Past patients: get your check-up in before CNY
+END:VALARM
+END:VEVENT
+END:VCALENDAR
