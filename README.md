@@ -56,14 +56,14 @@ It never makes up reviews, numbers or customer quotes. Anything only you know is
 git clone https://github.com/amelialy/content-calendar-skill.git
 ```
 
-Copy the whole `skills/content-calendar` folder, including `references/`, into your skills folder:
+Copy the whole `skills/content-calendar` folder, including both `references/` and `assets/`, into your skills folder. The `assets/` folder holds the visual planner, so without it you only get the CSV and calendar files.
 
 - Windows: `C:\Users\<you>\.claude\skills\`
 - Mac/Linux: `~/.claude/skills/`
 
 Restart Claude Code and ask: *"Make me a content calendar for my business."*
 
-**Claude.ai:** download this repo, zip the `skills/content-calendar` folder (with `references/` inside) and upload it under **Settings → Capabilities → Skills**.
+**Claude.ai:** download this repo, zip the `skills/content-calendar` folder (with `references/` and `assets/` inside) and upload it under **Settings → Capabilities → Skills**. Turn on file creation (code execution) too, so Claude can save your planner, CSV and calendar files.
 
 ## What's inside
 
