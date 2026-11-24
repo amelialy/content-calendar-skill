@@ -93,10 +93,10 @@ Read [references/profile-check.md](references/profile-check.md), and follow it f
 - **Look only at what's public, and read only.** If your browser or web tool can open the profile without logging in, do that. Never log in, follow, like, comment or message from any account.
 - **If you can see the bio but not the posts** (common with plain web fetches), say what you saw and ask for screenshots of the posts in the same message.
 - **If you can't see it** (no browsing tool, or the platform asks you to log in), ask for one of these instead: a screenshot of their profile and their last 9 posts, or a screenshot of their insights (reach, top posts, follower activity). If they'd rather not, carry on without it.
-- **Show what you found in up to 5 plain bullets** (fewer is fine; never pad) under "What I saw on your profile": what's working (do more), what isn't, and the quickest fix. Name real posts, e.g. "Your coffee post got about 10× your usual views".
+- **Show what you found in up to 5 plain bullets** (fewer is fine; never pad) under "What I saw on your profile": what's working, what each kind of post is doing for them, and one thing to try next. Name real posts, e.g. "Your coffee post got about 10× your usual views".
 - **Use it in the plan:**
   - Topics and formats that did better than their usual get more slots.
-  - Ones that flopped get fewer.
+  - Keep the kinds of posts they enjoy making, even ones with fewer views. If one isn't doing what they want yet, plan a tweak that keeps it (a stronger first line, their own take, a question at the end) rather than dropping it.
   - Write first lines in the voice they already use.
   - If the profile itself is the problem (unclear bio, no link, nothing pinned), put that first under "Also worth doing".
   - Use the profile's numbers to double-check their answer about what's holding them back (Step 2).
