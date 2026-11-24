@@ -40,7 +40,7 @@ If you hit a login wall, stop. Never log in or use the user's sessions to get pa
 **3. What performed: compare with their own usual, not other accounts**
 - Find their usual number: the middle value of views, likes or comments across recent posts.
 - Note posts at **3× or more** their usual. What do they share: topic, format, first line, face, place?
-- Note clear flops (well under usual) and what they share.
+- Note posts that did well under their usual. Look for what they share, and one tweak worth trying next time.
 - Read the comments on the best post. Who replied, and what did they say?
 
 ## Turning it into decisions
@@ -49,18 +49,18 @@ If you hit a login wall, stop. Never log in or use the user's sessions to get pa
 |---|---|---|
 | Good views, few follows; unclear bio | People come but don't stay | Fix the bio and pins first. Plan more "Build trust" posts. |
 | One topic or format far above usual | People want more of it | Give it more slots and reuse its style for "Get found" posts |
-| Mostly product photos and promotions | It feels like an ad feed | Mix in stories, tips and behind the scenes. Fewer pure promos. |
-| Long gaps, then bursts | Hard to keep up | Plan fewer posts. Suggest writing several in one sitting. |
+| Mostly product photos and promotions | Followers mostly see offers | Keep the product posts, and add stories, tips and behind the scenes around them |
+| Long gaps, then bursts | Hard to keep up | Plan a rhythm they can keep. Suggest writing several in one sitting. |
 | Posts never ask for anything | No next step | Give every post a clear ask |
 | Comments asking price or details go unanswered | Lost sales | "Also worth doing": reply within a day, and use a ready reply for price questions |
 | Very few posts or a new account | Nothing to learn from yet | Say so, and plan from their answers and the platform guide |
 
 ## How to report it to the user
 
-3–5 bullets in plain words, starting with what's working. For example:
+3–5 bullets in plain words, starting with what's working. Never tell them to stop posting something they enjoy; say what it does for them and what to try. For example:
 
 - **Working:** your coffee post got about 10× your usual views. People like real everyday moments from you.
-- **Not working yet:** opinion posts about "marketing systems" get 1–2 likes. They're too abstract.
+- **Try next:** your opinion posts about "marketing systems" get 1–2 likes so far. Adding one real example from your week could get more people replying.
 - **Profile:** your bio doesn't say who you help or link to your newsletter. Many people visit but few follow.
 - **Quick fix:** rewrite the bio in one line, add your newsletter link and pin your best post.
 
